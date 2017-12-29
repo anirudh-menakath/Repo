@@ -1,0 +1,13 @@
+Some of the basic operations in Git are:
+
+    Initialize
+    Add
+    Commit
+    Pull
+    Push
+
+Some advanced Git operations are:
+
+    Branching
+    Merging
+    Rebasing
